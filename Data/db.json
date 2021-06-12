@@ -1,0 +1,12 @@
+{
+    "todos":[
+        {
+            "item":"wake up",
+            "time":"7:30"
+        },
+        {
+            "item":"start studying",
+            "time":"tbd"
+        }
+    ]
+}
